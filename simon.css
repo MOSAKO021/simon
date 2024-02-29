@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+/* h1{
+    margin: auto;
+    text-align: center;
+} */
+
+.btns{
+    height: 125px; width: 250px;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 50px 75px 0px 0px;
+    font-size: 75px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-width: 7px;
+    border-radius: 1000px;
+    box-shadow: 15px 15px 15px 0px rgba(71, 71, 71, 0.75);
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.yellow{
+    background-color: yellow;
+}
+.orange{
+    background-color: orange;
+}
+.blue{
+    background-color: blue;
+}
+.pink{
+    background-color: pink;
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: purple;
+}
